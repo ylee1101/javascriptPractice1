@@ -1,1 +1,3 @@
-# javascriptPractice1
+# Pig Game 
+
+Implementation of Javascript for Pig Game
