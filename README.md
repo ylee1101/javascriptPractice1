@@ -2,4 +2,4 @@
 
 Implementation of Javascript for Pig Game
 
-![Alt text](http://full/path/to/readme.jpg "Read Me Image")
+![Alt text](/readme.jpg?raw=true "Read Me Img")
